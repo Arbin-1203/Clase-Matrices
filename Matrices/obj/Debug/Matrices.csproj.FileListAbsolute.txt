@@ -1,0 +1,8 @@
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Semana 3 - 31 enero\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Semana 3 - 31 enero\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Semana 3 - 31 enero\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Semana 3 - 31 enero\Matrices\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Semana 3 - 31 enero\Matrices\Matrices\obj\Debug\Matrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Semana 3 - 31 enero\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Semana 3 - 31 enero\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Semana 3 - 31 enero\Matrices\Matrices\obj\Debug\Matrices.pdb
